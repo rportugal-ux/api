@@ -33,6 +33,13 @@ Esta API tem como objetivo gerenciar produtos de uma loja virtual, permitindo op
 - POST /produtos → Cadastra novo produto
 - PUT /produtos/:id → Atualiza produto existente
 - DELETE /produtos/:id → Remove produto
+  
+- GET /produtos → Lista todos os produtos
+- GET /produtos/:id → Busca produto por ID
+- POST /produtos → Cadastra novo produto
+- PUT /produtos/:id → Atualiza produto existente
+- DELETE /produtos/:id → Remove produto
+
 
 ---
 
