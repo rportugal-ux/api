@@ -21,6 +21,7 @@ Esta API tem como objetivo gerenciar produtos de uma loja virtual, permitindo op
 
 ## 📊 Entidades do Sistema
 - Produtos
+- Categorias
 
 ---
 
@@ -43,6 +44,10 @@ Foram realizados testes utilizando o Postman para validar todos os endpoints:
 - POST /produtos
 - PUT /produtos/:id
 - DELETE /produtos/:id
+- GET /categorias
+- GET /categorias/:id
+- POST /categorias
+- DELETE /categorias/:id
 
 📸 As evidências dos testes estão anexadas no repositório.
 
